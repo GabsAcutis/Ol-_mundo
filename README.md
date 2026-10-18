@@ -1,2 +1,3 @@
-# Olá_mundo
-Repositóori versonado de estudo
+# Olá,mundo
+Repositório versonado de estudo 
+do curso em video
